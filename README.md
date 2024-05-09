@@ -1,2 +1,2 @@
 # dio-trilha-java-basico
-Desafio sintaxe DIO Java basico
+Desafios DIO Java basico
